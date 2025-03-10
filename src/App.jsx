@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import {ClockIcon, EthereumIcon, OvalIcon, RectangleIcon} from './assets';
+import {ClockIcon, EthereumIcon, OvalIcon, RectangleIcon} from 'src/assets';
 
 function App() {
   return (
