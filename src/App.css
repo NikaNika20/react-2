@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .bg-dark-blue-main {
+    background-color: #0d192b;
+  }
+  .bg-dark-blue-card {
+    background-color: #14253d;
+  }
+  .text-soft-blue {
+    color: #8bacda;
+  }
+  .border-dark-blue-line {
+    border-color: #2f415b;
+  }
+  .text-cyan {
+    color: #8BACD9;
+  }
+}
